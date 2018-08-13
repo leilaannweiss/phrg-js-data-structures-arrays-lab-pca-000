@@ -35,5 +35,10 @@ Remember the workflow:
 
 If you open up `test/indexTest.js`, you will see that in the `beforeEach` block we initialize our `driver` array values so that you can focus on what really matters — understanding how to manipulate arrays in JavaScript.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-data-structures-arrays-lab/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-data-structures-arrays-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-data-structures-arrays-lab'>Arrays Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Arrays Lab</p>
